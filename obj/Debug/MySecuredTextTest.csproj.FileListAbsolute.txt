@@ -1,0 +1,9 @@
+E:\Shakil__R33\MVC_SHAKIL\MySecuredTextTest\MySecuredTextTest\bin\Debug\MySecuredTextTest.exe.config
+E:\Shakil__R33\MVC_SHAKIL\MySecuredTextTest\MySecuredTextTest\bin\Debug\MySecuredTextTest.exe
+E:\Shakil__R33\MVC_SHAKIL\MySecuredTextTest\MySecuredTextTest\bin\Debug\MySecuredTextTest.pdb
+E:\Shakil__R33\MVC_SHAKIL\MySecuredTextTest\MySecuredTextTest\obj\Debug\MySecuredTextTest.csprojResolveAssemblyReference.cache
+E:\Shakil__R33\MVC_SHAKIL\MySecuredTextTest\MySecuredTextTest\obj\Debug\MySecuredTextTest.Form1.resources
+E:\Shakil__R33\MVC_SHAKIL\MySecuredTextTest\MySecuredTextTest\obj\Debug\MySecuredTextTest.Properties.Resources.resources
+E:\Shakil__R33\MVC_SHAKIL\MySecuredTextTest\MySecuredTextTest\obj\Debug\MySecuredTextTest.csproj.GenerateResource.Cache
+E:\Shakil__R33\MVC_SHAKIL\MySecuredTextTest\MySecuredTextTest\obj\Debug\MySecuredTextTest.exe
+E:\Shakil__R33\MVC_SHAKIL\MySecuredTextTest\MySecuredTextTest\obj\Debug\MySecuredTextTest.pdb
